@@ -44,7 +44,7 @@ Other major software like Rainmeter turn out to be pretty heavy on the already b
 ### Proposal 
 
 So I came up with Qubertz
-![qb](https://i.imgur.com/6vMoQ4t.png)
+![qb](https://i.imgur.com/FyXWKn3.png)
 
 The main idea is that Qubertz will be hosting several different projects; each of which will serve as a Windows alternative to a linux utility. I've done some research and planned out a lot of things ahead of time and if  I do not procrastinate (*[coughs](https://media.discordapp.net/attachments/534761264967188500/934413849464029214/unknown.png)*) it might even be possible to pull out
 
