@@ -17,5 +17,11 @@ export default {
         }
       `}</style>
     </small>
-  )
+  ),
+  darkMode: true,
+  cusdis: {
+    appId: '2999076b-f214-410a-b95a-22d1047ff828',
+    host: 'https://cusdis.com',
+    lang: 'en'
+  },
 }
