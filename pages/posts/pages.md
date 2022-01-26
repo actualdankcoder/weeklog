@@ -1,8 +1,8 @@
 ---
-title:  Devlog  #1
+title:  Qubertz Project
 date:  2022/1/22
 description:  Porting linux utilities to windows
-tag:  linux windows
+tag:  linux, windows
 author:  DankCoder
 ---
 
