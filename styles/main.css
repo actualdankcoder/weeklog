@@ -60,6 +60,9 @@ img.next-image {
   margin:5px;
 }
 
+.dark .ghub {
+  filter: invert(1);
+}
 .prose a {
   color: #0074de;
 }
