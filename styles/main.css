@@ -70,3 +70,61 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
+.avatar-container{
+  height: 128px;
+  width:128px;
+  position: relative;
+}
+.plug-avatar {
+  border-radius: 100%;
+}
+.indicator {
+  position: absolute;
+  height:25px;
+  width:25px;
+  border-radius: 100%;
+  top:78%;
+  left: 75%
+}
+
+.dnd {
+  background-color:#F04747;
+}
+.online {
+  background-color: #43B581;
+}
+.idle {
+  background-color: #FAA61A;
+}
+.offline {
+  background-color: #707B88;
+}
+.glyphon-dnd {
+  position: absolute;
+  height:5px;
+  width:15px;
+  border-radius: 10%;
+  background-color: #292B2F;
+  top:86%;
+  left: 79%
+}
+
+.glyphon-idle {
+  position: absolute;
+  height:15px;
+  width:15px;
+  border-radius: 100%;
+  box-shadow: 4px 5.5px 0 0.5px white  ;
+  top:78%;
+  left: 75%
+}
+.glyphon-offline {
+  position: absolute;
+  height:12px;
+  width:12px;
+  border-radius: 100%;
+  background-color: #292B2F;
+  top:83.5%;
+  left: 80.5%  
+}
